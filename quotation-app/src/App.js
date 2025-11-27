@@ -548,9 +548,9 @@ function App() {
               </div>
 
               <div className="w-1/2 flex flex-col items-end">
-                <div className="mb-6 text-right">
-                  <h2 className="text-4xl font-serif font-bold text-gray-800 tracking-tighter">sulit</h2>
-                  <p className="text-[10px] tracking-[0.3em] uppercase text-gray-500 mt-1">Bespoke</p>
+                {/* Logo Replaced Here */}
+                <div className="mb-6 flex justify-end">
+                  <img src="/logo.png" alt="Sulit Decor" className="h-20 object-contain" />
                 </div>
 
                 <div className="w-64">
